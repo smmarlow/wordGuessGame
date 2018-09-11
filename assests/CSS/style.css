@@ -1,0 +1,26 @@
+/* h1 {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    /* color:rgb(9, 9, 70) */
+
+    h3 {
+        font-family: 'Courier New',
+    }
+    
+    
+    img  {
+        max-width: 50%;
+        height: auto;
+    
+    }
+    
+    .psychicgame {
+        margin: 0 auto;
+        /* position: relative; */ 
+        /* left: 150px; */
+        /* right:  150px; */
+        /* background-color:  */
+        /* text-align: center; */
+        /*padding-top: 25px;*/
+        /* width: 870px; */
+         /* border: 0 px solid rgb(102, 104, 102); */
+        /* margin-right: 25px; */
+    };
